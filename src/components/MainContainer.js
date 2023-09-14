@@ -6,6 +6,7 @@ import SearchBar from "./SearchBar";
 function MainContainer() {
   return (
     <div>
+      
       <SearchBar />
       <div className="row">
         <div className="col-8">
